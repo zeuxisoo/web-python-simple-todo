@@ -23,3 +23,7 @@ Run
 Browser
 ---
 1. open browser and visit http://localhost:8082/
+
+Others
+---
+1. included library (beaker 1.5.4)
