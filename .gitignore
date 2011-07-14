@@ -1,0 +1,7 @@
+.DS_Store
+.*~
+*.pyc
+*.db
+*.sqlite
+*.php
+data
